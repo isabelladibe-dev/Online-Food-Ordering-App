@@ -47,12 +47,8 @@ This prototype demonstrates my ability to:
 
 project-folder/
 
-├─ index.html          # Dynamic menu page
-
-├─ login.html          # Mock login page
-
-├─ menu.json           # Menu data file
-
-├─ login.css           # Styling for login page
-
-└─ README.md           # Project documentation
+- index.html          # Dynamic menu page
+- login.html          # Mock login page
+- menu.json           # Menu data file
+- login.css           # Styling for login page
+- README.md           # Project documentation

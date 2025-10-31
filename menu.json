@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bibimbap",
+    "description": "A classic Korean rice bowl topped with assorted vegetables, beef, fried egg, and spicy gochujang sauce.",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Bulgogi",
+    "description": "Thinly sliced marinated beef grilled with onions and carrots, served with rice and kimchi.",
+    "price": 14.49
+  },
+  {
+    "id": 3,
+    "name": "Japchae",
+    "description": "Sweet potato glass noodles stir-fried with beef and mixed vegetables in a savory soy-based sauce.",
+    "price": 11.99
+  },
+  {
+    "id": 4,
+    "name": "Kimchi Jjigae",
+    "description": "Spicy stew made with aged kimchi, tofu, pork, and scallions, served with a side of steamed rice.",
+    "price": 10.99
+  },
+  {
+    "id": 5,
+    "name": "Tteokbokki",
+    "description": "Chewy rice cakes cooked in a spicy-sweet red pepper sauce, topped with fish cakes and boiled eggs.",
+    "price": 9.49
+  },
+  {
+    "id": 6,
+    "name": "Samgyeopsal",
+    "description": "Grilled pork belly slices served with lettuce wraps, garlic, and dipping sauces.",
+    "price": 16.99
+  },
+  {
+    "id": 7,
+    "name": "Haemul Pajeon",
+    "description": "Savory Korean seafood pancake made with green onions, squid, and shrimp, served with soy dipping sauce.",
+    "price": 12.49
+  },
+  {
+    "id": 8,
+    "name": "Sundubu Jjigae",
+    "description": "Hot and spicy soft tofu stew with seafood or beef, egg, and vegetables in a rich broth.",
+    "price": 11.49
+  },
+  {
+    "id": 9,
+    "name": "Kimchi Fried Rice",
+    "description": "Stir-fried rice with kimchi, vegetables, and egg, with an optional topping of spam or pork.",
+    "price": 9.99
+  },
+  {
+    "id": 10,
+    "name": "Soju",
+    "description": "Traditional Korean distilled spirit made from rice, barley, or sweet potatoes. Served chilled.",
+    "price": 6.99
+  },
+  {
+    "id": 11,
+    "name": "Makgeolli",
+    "description": "Lightly sparkling Korean rice wine with a creamy texture and slightly sweet flavor.",
+    "price": 7.49
+  },
+  {
+    "id": 12,
+    "name": "Banchan Set",
+    "description": "Assorted side dishes including kimchi, pickled radish, bean sprouts, and spinach.",
+    "price": 5.99
+  }
+]
